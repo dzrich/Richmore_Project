@@ -1,3 +1,3 @@
 # Richmore_Project
-Technical Assessment
-No Assumptions were made on this analysis
+
+Assumptions: Assume that the observations are independent to each other.
